@@ -7,6 +7,7 @@ int main()
 	std::cout << "Home" << std::endl;
 	std::cout << "yyy" << std::endl;
 	std::cout << "hahaha" << std::endl;
+	std::cout << "ccc" << std::endl;
 
 
 
